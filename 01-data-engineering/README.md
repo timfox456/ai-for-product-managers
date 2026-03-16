@@ -1,5 +1,7 @@
 # Day 1 Bonus Lab: The "AI-Driven Feature" Pressure Test
 
+**← [Back to Course Overview](../README.md)**
+
 **Duration:** 30 Minutes  
 **Tools:** Python (Notebook or IDE), ChatGPT, and/or GitHub Copilot  
 

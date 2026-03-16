@@ -1,0 +1,28 @@
+# Expanded Visa Transaction Dataset for PM Lab
+transactions = [
+    {"tx_id": 1, "amount": 54.20, "time": "14:22", "mcc": "5411", "zip": "94103", "is_fraud": 0},
+    {"tx_id": 2, "amount": 1200.00, "time": "03:15", "mcc": "5732", "zip": "10001", "is_fraud": 1},
+    {"tx_id": 3, "amount": 15.00, "time": "09:45", "mcc": "5812", "zip": "60601", "is_fraud": 0},
+    {"tx_id": 4, "amount": 850.00, "time": "02:10", "mcc": "5944", "zip": "90210", "is_fraud": 1},
+    {"tx_id": 5, "amount": 65.00, "time": "18:30", "mcc": "5411", "zip": "94103", "is_fraud": 0},
+    {"tx_id": 6, "amount": 2100.00, "time": "01:45", "mcc": "5094", "zip": "33139", "is_fraud": 1},
+    {"tx_id": 7, "amount": 12.50, "time": "08:15", "mcc": "4121", "zip": "94103", "is_fraud": 0},
+    {"tx_id": 8, "amount": 45.00, "time": "12:00", "mcc": "5814", "zip": "10012", "is_fraud": 0},
+    {"tx_id": 9, "amount": 320.00, "time": "23:55", "mcc": "5732", "zip": "89109", "is_fraud": 1},
+    {"tx_id": 10, "amount": 95.00, "time": "15:10", "mcc": "5411", "zip": "60601", "is_fraud": 0},
+    {"tx_id": 11, "amount": 1400.00, "time": "04:20", "mcc": "5732", "zip": "10001", "is_fraud": 1},
+    {"tx_id": 12, "amount": 8.00, "time": "07:30", "mcc": "5814", "zip": "94105", "is_fraud": 0},
+    {"tx_id": 13, "amount": 2500.00, "time": "22:15", "mcc": "5944", "zip": "90210", "is_fraud": 1},
+    {"tx_id": 14, "amount": 42.00, "time": "19:00", "mcc": "5812", "zip": "30303", "is_fraud": 0},
+    {"tx_id": 15, "amount": 110.00, "time": "11:45", "mcc": "5411", "zip": "94103", "is_fraud": 0},
+    {"tx_id": 16, "amount": 1800.00, "time": "02:50", "mcc": "5732", "zip": "10001", "is_fraud": 1},
+    {"tx_id": 17, "amount": 22.00, "time": "13:20", "mcc": "5814", "zip": "60601", "is_fraud": 0},
+    {"tx_id": 18, "amount": 55.00, "time": "17:40", "mcc": "5411", "zip": "10012", "is_fraud": 0},
+    {"tx_id": 19, "amount": 900.00, "time": "03:10", "mcc": "5094", "zip": "33139", "is_fraud": 1},
+    {"tx_id": 20, "amount": 150.00, "time": "10:00", "mcc": "5812", "zip": "90210", "is_fraud": 0},
+    {"tx_id": 21, "amount": 12.00, "time": "06:15", "mcc": "4121", "zip": "94103", "is_fraud": 0},
+    {"tx_id": 22, "amount": 3000.00, "time": "00:05", "mcc": "5944", "zip": "89109", "is_fraud": 1},
+    {"tx_id": 23, "amount": 75.00, "time": "14:50", "mcc": "5411", "zip": "30303", "is_fraud": 0},
+    {"tx_id": 24, "amount": 20.00, "time": "09:10", "mcc": "5814", "zip": "10001", "is_fraud": 0},
+    {"tx_id": 25, "amount": 1100.00, "time": "04:55", "mcc": "5732", "zip": "94105", "is_fraud": 1}
+]

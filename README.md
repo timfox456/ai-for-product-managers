@@ -23,9 +23,9 @@ This course teaches product managers how to **think strategically about AI** —
 ## 📚 The Labs
 
 ### [Lab 1: The "AI-Driven Feature" Pressure Test](./01-data-engineering/README.md)
-**Topic:** Data Engineering for AI Products  
-**Duration:** 30 minutes  
-**Tools:** Python (any IDE or notebook), ChatGPT/Copilot
+**Topic:** Data Engineering for AI Products
+**Duration:** 30 minutes
+**Tools:** ChatGPT or Copilot (required); Python IDE or Jupyter Notebook (optional — a no-code path is provided)
 
 **What You'll Do:**
 - Transform raw transaction data into AI-ready features
@@ -96,10 +96,10 @@ This course teaches product managers how to **think strategically about AI** —
 
 All labs use only **general-purpose tools** that every PM already has:
 
-- **ChatGPT** or **GitHub Copilot** (or any AI chat tool)
-- **Python IDE** or **Jupyter Notebook** (for Lab 1 only — basic Python knowledge)
+- **ChatGPT** or **Microsoft Copilot** (required for all labs)
+- **Python IDE** or **Jupyter Notebook** (optional for Lab 1 — a no-code path using ChatGPT is provided)
 - **Calculator** or **Spreadsheet** (Lab 3)
-- **Word Processor** with character count (any text editor — Lab 3)
+- **Word Processor** with word count (any text editor — Lab 3)
 
 **No specialized AI engineering tools required.** No API keys. No cloud setup.
 
